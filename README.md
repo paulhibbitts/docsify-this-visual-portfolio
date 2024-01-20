@@ -79,11 +79,10 @@ Docsify-This Examples
 ---
 
 [Docsify-This Visual Portfolio](https://github.com/paulhibbitts/docsify-this-visual-portfolio), displayed by Docsify-This as a:  
-* [Standalone Site](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-visual-portfolio/main&homepage=README.md&sidebar=true&loadSidebar=_sidebar.md "Docsify-This Visual Portfolio")  
-* [Standalone Site with automatic light/dark theme switching](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-visual-portfolio/main&homepage=README.md&sidebar=true&loadSidebar=_sidebar.md&dark-mode=true "Docsify-This Visual Portfolio")  
-* [Standalone Site with favicon](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-visual-portfolio/main&homepage=README.md&sidebar=true&loadFavicon=favicon.png&loadSidebar=_sidebar.md&loadSidebar=_sidebar.md "Docsify-This Visual Portfolio") 
-* [Standalone Site with favicon and name of the Website in Sidebar](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-visual-portfolio/main&homepage=README.md&sidebar=true&loadFavicon=favicon.png&loadSidebar=_sidebar.md&loadSidebar=_sidebar.md&name=Design%20Portfolio "Docsify-This Visual Portfolio")  
-* [Standalone Site with zoomable images](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-visual-portfolio/main&homepage=README.md&sidebar=true&loadSidebar=_sidebar.md&zoom-images=true "Docsify-This Visual Portfolio")
-* [Standalone Site with pagination](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-visual-portfolio/main&homepage=README.md&sidebar=true&loadSidebar=_sidebar.md&pagination=true#/ "Docsify-This Visual Portfolio")  
+* [Standalone Site](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-visual-portfolio/main&homepage=README.md&sidebar=true&loadSidebar=_sidebar.md&name=Design%20Portfolio "Docsify-This Visual Portfolio")  
+* [Standalone Site with automatic light/dark theme switching](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-visual-portfolio/main&homepage=README.md&sidebar=true&loadSidebar=_sidebar.md&name=Design%20Portfolio&dark-mode=true "Docsify-This Visual Portfolio")  
+* [Standalone Site with favicon](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-visual-portfolio/main&homepage=README.md&sidebar=true&loadFavicon=favicon.png&loadSidebar=_sidebar.md&loadSidebar=_sidebar.md&name=Design%20Portfolio "Docsify-This Visual Portfolio") 
+* [Standalone Site with zoomable images](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-visual-portfolio/main&homepage=README.md&sidebar=true&loadSidebar=_sidebar.md&name=Design%20Portfolio&zoom-images=true "Docsify-This Visual Portfolio")
+* [Standalone Site with pagination](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-visual-portfolio/main&homepage=README.md&sidebar=true&loadSidebar=_sidebar.md&name=Design%20Portfolio&pagination=true#/ "Docsify-This Visual Portfolio")  
 
 </div>
