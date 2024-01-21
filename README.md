@@ -1,4 +1,4 @@
-# ☝🏼 Design Portfolio
+# ☝🏼 **Design Portfolio**
 
 > 👋 Hi, I’m Mary - a web designer based out of San Francisco.
 > 
