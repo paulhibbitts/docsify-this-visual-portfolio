@@ -1,4 +1,4 @@
-# ⚡️ About Me
+# ⚡️ **About Me**
 
 <div class="row">
 <div class="column">

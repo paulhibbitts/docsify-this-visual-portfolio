@@ -1,11 +1,11 @@
-# ☝🏼 Design Portfolio
+# ☝🏼 **Design Portfolio**
 
 > 👋 Hi, I’m Mary - a web designer based out of San Francisco.
 > 
 
 ↓ Click into each project to learn more about its creation, goal and current version.
 
-## My projects {docsify-ignore}
+## **My projects** {docsify-ignore}
 
 [![Website redesign](images/website-redesign.png ':class=banner-tall-image')](website-redesign.md)  
 🎨 **Website redesign**
