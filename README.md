@@ -19,7 +19,8 @@
 <div class="column-right">
 
 [![3D Art](images/3d-art.png ':class=banner-tall-image')](3d-art.md)
-🖼️ **3D Art**
+🖼️ **3D Art**  
+<span class='badge' style='--badge-bg-color: #daecda; --badge-text-color: #1c3728;'> 3D</span> <span class='badge' style='--badge-bg-color: #322f2b; --badge-text-color: #183246;'> Blender</span> 
 
 </div>
 </div>
@@ -28,14 +29,16 @@
 <div class="column">
 
 [![Rebranding](images/rebranding.png ':class=banner-tall-image')](rebranding.md)
-™️ **Rebranding**
+™️ **Rebranding**  
+<span class='badge' style='--badge-bg-color: #e7ddee; --badge-text-color: #412354;'> Brand</span> <span class='badge' style='--badge-bg-color: #f1efef; --badge-text-color: #322f2b;'> Marketing</span> 
 
 </div>
 
 <div class="column-right">
 
 [![Poster design](images/poster-design.png ':class=banner-tall-image')](poster-design.md)
-🛬 **Poster design**
+🛬 **Poster design**  
+<span class='badge' style='--badge-bg-color: #e7ddee; --badge-text-color: #412354;'> Brand</span> <span class='badge' style='--badge-bg-color: #eedfda; --badge-text-color: #43291f;'> Graphic design</span> 
 
 </div>
 </div>
