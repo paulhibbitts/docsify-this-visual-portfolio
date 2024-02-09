@@ -20,7 +20,7 @@
 
 [![3D Art](images/3d-art.png ':class=banner-tall-image')](3d-art.md)
 🖼️ **3D Art**  
-<span class='badge' style='--badge-bg-color: #daecda; --badge-text-color: #1c3728;'> 3D</span> <span class='badge' style='--badge-bg-color: #322f2b; --badge-text-color: #183246;'> Blender</span> 
+<span class='badge' style='--badge-bg-color: #daecda; --badge-text-color: #1c3728;'> 3D</span> <span class='badge' style='--badge-bg-color: #d1e4ee; --badge-text-color: #183246;'> Blender</span> 
 
 </div>
 </div>
