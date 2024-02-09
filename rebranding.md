@@ -1,6 +1,6 @@
 # ™️ **Rebranding**
 
-Tags  <span class='badge' style='--badge-bg-color: #e7ddee; --badge-text-color: #412354;'> Brand</span> <span class='badge' style='--badge-bg-color: #f1efef; --badge-text-color: #322f2b;'> Marketing</span> 
+Tags &nbsp;&nbsp;&nbsp; <span class='badge' style='--badge-bg-color: #e7ddee; --badge-text-color: #412354;'> Brand</span> <span class='badge' style='--badge-bg-color: #f1efef; --badge-text-color: #322f2b;'> Marketing</span> 
 
 ## **The idea**
 
