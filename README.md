@@ -10,7 +10,7 @@
 <div class="row">
 
 <a href=
-"website-redesign">
+"#/website-redesign">
 <div class="column">
 
 ![Website redesign](images/website-redesign.png ':class=banner-tall-image')
