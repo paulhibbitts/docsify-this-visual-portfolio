@@ -11,7 +11,8 @@
 <div class="column">
 
 [![Website redesign](images/website-redesign.png ':class=banner-tall-image')](website-redesign.md)
-🎨 **Website redesign**
+🎨 **Website redesign**  
+<span class='badge' style='--badge-bg-color: #daecda; --badge-text-color: #1c3728;'> UI/UX</span> <span class='badge' style='--badge-bg-color: #e7ddee; --badge-text-color: #412354;'> Brand</span> 
 
 </div>
 
